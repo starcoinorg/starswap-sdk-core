@@ -1,7 +1,7 @@
 {
   "name": "@starcoin/starswap-sdk-core",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "description": "⚒️ An SDK for building applications on top of Uniswap V3",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -21,7 +21,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@starcoin/stc-util": "^0.3.0",
+    "@starcoin/stc-util": "^0.4.1",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.4",
